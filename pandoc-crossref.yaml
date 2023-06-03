@@ -1,0 +1,17 @@
+figureTitle: "Figure"
+figPrefix: "fig"
+eqnPrefix: "eq"
+tblPrefix: "tbl"
+cref: true
+numberSections: true
+sectionsDepth: 5
+codeBlockCaptions: false
+linkReferences: false
+nameInLink: true
+autoEqnLabels: true
+secLabels: "arabic"
+figLabels: "arabic"
+eqLabels: "arabic"
+tblLabels: "arabic"
+tableEqns: true
+equationNumberTeX: \\tag
